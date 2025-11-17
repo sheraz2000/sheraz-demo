@@ -1,2 +1,2 @@
 # sheraz-demo
-this is a demo for Git and Github class 
+T  his is a demo for Git and Github class 
